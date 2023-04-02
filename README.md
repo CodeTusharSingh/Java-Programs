@@ -5,3 +5,5 @@ Some programs written in java.
 2. doubleStack-> Implement two stacks in a single array.
 3. findKthLargest-> Given an integer array nums and an integer k, return the kth largest element in the array.
 4. fidMin-> Suppose an array of length n sorted in ascending order is rotated between 1 and n times. Given the sorted rotated array nums of unique elements, return the minimum element of this array.
+5. hashSet-> Implementation of hash set in java.
+6. ipaddress-> Find ipaddress of different websites.
