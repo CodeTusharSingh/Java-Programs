@@ -4,7 +4,7 @@ public class jdbcTest {
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/java1", "Tushar", "empire1980");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/java1", "******", "******");
             Statement stmt = con.createStatement();
             ResultSet rs = stmt.executeQuery("select * from record");
             while (rs.next()) {
