@@ -11,3 +11,4 @@ Some programs written in java.
 8. jdbcTest-> Connecting mysql database to java.
 9. largest_subarray-> Find the sum of the contiguous subarray within a array with the largest sum.
 10. longestCommonSub-> Given two strings, the task is to find the length of the longest subsequence present in both of the strings.
+11. maps -> Implementing hashmap and treemap.
