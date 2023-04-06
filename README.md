@@ -14,4 +14,4 @@ Some programs written in java.
 11. maps-> Implementing hashmap and treemap.
 12. matrix_multiplication-> Matrix Multiplication using multi threading.
 13. matrixChainMultiplication-> Find the most efficient way to multiply these matrices together such that the total number of element multiplications is minimum.
-15. 
+15. multithreading_array_search-> Searching an element in the array using multithreading.
