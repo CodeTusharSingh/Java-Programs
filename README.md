@@ -13,3 +13,4 @@ Some programs written in java.
 10. longestCommonSub-> Given two strings, the task is to find the length of the longest subsequence present in both of the strings.
 11. maps-> Implementing hashmap and treemap.
 12. matrix_multiplication-> Matrix Multiplication using multi threading.
+13. matrixChainMultiplication-> Find the most efficient way to multiply these matrices together such that the total number of element multiplications is minimum.
