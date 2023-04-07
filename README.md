@@ -16,3 +16,4 @@ Some programs written in java.
 13. matrixChainMultiplication-> Find the most efficient way to multiply these matrices together such that the total number of element multiplications is minimum.
 15. multithreading_array_search-> Searching an element in the array using multithreading.
 16. productExceptSelf-> Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+17. queue-> Implementing queue in java.
