@@ -17,3 +17,4 @@ Some programs written in java.
 15. multithreading_array_search-> Searching an element in the array using multithreading.
 16. productExceptSelf-> Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 17. queue-> Implementing queue in java.
+18. rodCutting-> Given a rod of length n inches and an array of prices that includes prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces.
