@@ -18,3 +18,5 @@ Some programs written in java.
 16. productExceptSelf-> Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 17. queue-> Implementing queue in java.
 18. rodCutting-> Given a rod of length n inches and an array of prices that includes prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces.
+19. Rotate_Image -> You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
