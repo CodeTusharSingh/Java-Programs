@@ -67,11 +67,3 @@ public class threeSum {
 
     }
 }
-
-// for (int i = 0; i < ls.size() - 1; i++) {
-// for(int j = 0; j < 3; j++){
-// if(ls.get(i).get(i) == ls.get(i + 1).get( i + 1 )) {
-
-// }
-// }
-// }
