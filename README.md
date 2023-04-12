@@ -22,3 +22,4 @@ Some programs written in java.
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
 20. socketClass -> Implementing socket class.
 21. stackTest -> Implementing stack in java.
+22. threeSum-> Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k]==0.
