@@ -24,3 +24,4 @@ You have to rotate the image in-place, which means you have to modify the input 
 21. stackTest -> Implementing stack in java.
 22. threeSum-> Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k]==0.
 23. treeSet -> Implementing tree set in java.
+24. tripleStack -> Implementing 3 stacks in one array. 
