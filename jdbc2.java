@@ -20,7 +20,7 @@ public class jdbc2 {
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(jdbc2.class.getName()).log(Level.SEVERE, null, ex);
         }
-        try (Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/department", "Tushar", "empire1980")) {
+        try (Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/department", "**********", "*******")) {
             Statement stmt = conn.createStatement();
             int choice;
             Scanner sc = new Scanner(System.in);
