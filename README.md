@@ -26,3 +26,4 @@ You have to rotate the image in-place, which means you have to modify the input 
 23. treeSet -> Implementing tree set in java.
 24. tripleStack -> Implementing 3 stacks in one array. 
 25. Valid_Anagram -> Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+26. jdbc2 -> Write a Java program which will insert, update and delete records from a database table. Table name is Dept( dept_id int, dname varchar(50), location varchar()50). Your program should show a menu to user for choice, like, 1 for Insert, 2 for Update etc.
