@@ -51,9 +51,9 @@ public class multithreading_array_search {
                 Search thirdSearch = new Search(NoList, NoToSearch, 5000, 7499);
                 Search fourthSearch = new Search(NoList, NoToSearch, 7500, 9999);
                 t1 = new Thread(firstSearch, "First Thread");
-                t2 = new Thread(firstSearch, "Second Thread");
-                t3 = new Thread(firstSearch, "Third Thread");
-                t4 = new Thread(firstSearch, "Fourth Thread");
+                t2 = new Thread(secondSearch, "Second Thread");
+                t3 = new Thread(thirdSearch, "Third Thread");
+                t4 = new Thread(fourthSearch, "Fourth Thread");
                 t1.start();
                 t2.start();
                 t3.start();
